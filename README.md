@@ -14,7 +14,7 @@ g++ -O3 5_c.cpp lib.cpp -o [Program name] -larmadillo -std=c++11
 
 Output:
 
-> Alpha 	 Acceptance rate	 Mean Energy	 Mean Variance	 Average distance
+> Alpha |	 Acceptance rate |	 Mean Energy |	 Mean Variance | Average distance
 
 Example:
 
@@ -36,7 +36,7 @@ g++ -O3 5_d.cpp lib.cpp -o [Program name] -larmadillo -std=c++11
 
 Output:
 
-> Beta 	 Acceptance rate	 Mean Energy	 Mean Variance	 Average distance
+> Beta |	 Acceptance rate |	 Mean Energy |	 Mean Variance |  Average distance
 
 Example:
 
@@ -58,7 +58,7 @@ g++ -O3 5_e.cpp lib.cpp -o [Program name] -larmadillo -std=c++11
 
 Output:
 
-> Omega	 	Mean Energy	 	Mean Variance 	Mean Kinetic energy 	Mean Potential energy
+> Omega	 |	Mean Energy	 |	Mean Variance |	Mean Kinetic energy |	Mean Potential energy
 
 Example:
 
